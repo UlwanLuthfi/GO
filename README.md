@@ -5,4 +5,4 @@ pengen bikin projek baru
 pengen coba teknologi baru
 
 
-pokoknya js dah, karena aja jav dalam javascript
+pokoknya js dah, karena ada kata jav dalam javascript
